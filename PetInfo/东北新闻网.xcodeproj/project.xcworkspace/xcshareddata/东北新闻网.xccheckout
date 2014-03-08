@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A18DE12D-7115-45B8-9037-8C739A8E3ED8</string>
+	<string>92E34B2C-B5C7-4862-9FA2-7013E254C488</string>
 	<key>IDESourceControlProjectName</key>
 	<string>东北新闻网</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5152BA41-9638-4048-9A4F-0AB524925922</key>
-		<string>https://github.com/zzw19880707/NenNews.git</string>
+		<key>D05FEF78-4080-4AE6-BBB2-FA2DB4A7CD25</key>
+		<string>https://github.com/zzw19880707/nen_news.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PetInfo/东北新闻网.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5152BA41-9638-4048-9A4F-0AB524925922</key>
+		<key>D05FEF78-4080-4AE6-BBB2-FA2DB4A7CD25</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/zzw19880707/NenNews.git</string>
+	<string>https://github.com/zzw19880707/nen_news.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5152BA41-9638-4048-9A4F-0AB524925922</string>
+	<string>D05FEF78-4080-4AE6-BBB2-FA2DB4A7CD25</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5152BA41-9638-4048-9A4F-0AB524925922</string>
+			<string>D05FEF78-4080-4AE6-BBB2-FA2DB4A7CD25</string>
 			<key>IDESourceControlWCCName</key>
-			<string>NenNews</string>
+			<string>nen_news</string>
 		</dict>
 	</array>
 </dict>
