@@ -25,6 +25,7 @@
     [[NSNotificationCenter defaultCenter]removeObserver:self];
     [super dealloc];
     MARK;
+    MARK;
 }
 #pragma mark 入口
 //程序入口
