@@ -24,6 +24,7 @@
     [_window release];
     [[NSNotificationCenter defaultCenter]removeObserver:self];
     [super dealloc];
+    NSLog(@"123");
 }
 #pragma mark 入口
 //程序入口
